@@ -16,6 +16,10 @@
     "react",
     "antd"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrMeiyu/antd-create-form/tree/master"
+  },
   "author": {
     "name": "meiyu",
     "email": "mieyu10@qq.com"
